@@ -1,0 +1,93 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("np://user.desktop.nicepage.com/Site_1139218669/images/default-image.jpg?rand=f9e0");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 278px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 100px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 229px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 175px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 131px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 82px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1692px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 29px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 1057px;
+  height: 1574px;
+  margin: 29px auto 1px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1518px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 940px;
+    height: 1400px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1190px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 1072px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 922px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 804px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 506px;
+  }
+}
